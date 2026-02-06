@@ -1,12 +1,12 @@
 # Motorola Sales Analysis – Power BI
 
-## 📊 Project Overview
+##  Project Overview
 This project analyzes Motorola mobile sales data using Microsoft Power BI.  
 The dashboard provides insights into total sales, quantity sold, transactions, city-wise performance, payment methods, and customer ratings to support business decision-making.
 
 ---
 
-## 📑 Table of Contents
+## Table of Contents
 - [Project Overview](#-project-overview)
 - [Tools Used](#-tools-used)
 - [Dataset Information](#-dataset-information)
@@ -20,7 +20,7 @@ The dashboard provides insights into total sales, quantity sold, transactions, c
 
 ---
 
-## 🛠 Tools Used
+##  Tools Used
 - Microsoft Power BI  
 - Power Query  
 - DAX  
@@ -28,7 +28,7 @@ The dashboard provides insights into total sales, quantity sold, transactions, c
 
 ---
 
-## 📁 Dataset Information
+##  Dataset Information
 The dataset includes Motorola mobile sales data with the following attributes:
 - Total sales amount
 - Quantity sold
@@ -41,7 +41,7 @@ The dataset includes Motorola mobile sales data with the following attributes:
 
 ---
 
-## 🧹 Data Preparation
+##  Data Preparation
 - Cleaned and transformed data using Power Query  
 - Removed duplicates and handled missing values  
 - Corrected data types for date and numeric fields  
@@ -49,7 +49,7 @@ The dataset includes Motorola mobile sales data with the following attributes:
 
 ---
 
-## 📈 Dashboard Analysis
+##  Dashboard Analysis
 The Power BI dashboard includes:
 - KPI cards for Total Sales, Quantity, Transactions, and Average Sales  
 - Monthly sales trend analysis  
@@ -61,7 +61,7 @@ The Power BI dashboard includes:
 
 ---
 
-## 💡 Key Insights
+##  Key Insights
 - Identified top-performing cities contributing to overall sales  
 - Observed monthly trends in sales quantity  
 - Analyzed preferred payment methods among customers  
@@ -69,7 +69,7 @@ The Power BI dashboard includes:
 
 ---
 
-## 🖼 Dashboard Preview
+##  Dashboard Preview
 
 ### Overall Dashboard
 ![Dashboard Overview](Screenshots/dashboard_overview.png)
@@ -85,14 +85,14 @@ The Power BI dashboard includes:
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 Excel datset 
 Screenshots
 PowerBi file
 Readme
 ---
 
-## ▶️ How to Use
+##  How to Use
 1. Download or clone this repository  
 2. Open the `.pbix` file using Power BI Desktop  
 3. Use slicers to interact with the dashboard  
@@ -100,10 +100,10 @@ Readme
 
 ---
 
-## ✅ Conclusion
+##  Conclusion
 This project demonstrates practical Power BI skills including data cleaning, DAX calculations, and dashboard development.  
 It showcases the ability to transform raw sales data into meaningful business insights using visual analytics.
 
 ---
-## 👤 Author
+##  Author
 Shreya Chanore 
