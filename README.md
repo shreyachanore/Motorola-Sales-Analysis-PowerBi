@@ -76,8 +76,8 @@ The Power BI dashboard includes:
 ### Sales Trends
 ![Sales Trends](Screenshots/sales_trends.png)
 
-### City-wise Sales
-![Sales by City](Screenshots/sales_by_city.png)
+### Kpi and Fliter
+![Kpi_Fliter](Screenshots/kpi_and_filters.png)
 
 ### Customer & Payment Analysis
 ![Customer Analysis](Screenshots/customer_and_payment_analysis.png)
