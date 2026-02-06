@@ -86,7 +86,10 @@ The Power BI dashboard includes:
 ---
 
 ## 📂 Project Structure
-
+Excel datset 
+Screenshots
+PowerBi file
+Readme
 ---
 
 ## ▶️ How to Use
