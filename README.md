@@ -72,7 +72,7 @@ The Power BI dashboard includes:
 ##  Dashboard Preview
 
 ### Overall Dashboard
-![Dashboard Overview](Screenshots/dashboard_overview.png.png)
+![Dashboard Overview](Screenshots/dashboard_overview.png.png).
 ### Sales Trends
 ![Sales Trends](Screenshots/sales_trends.png)
 
